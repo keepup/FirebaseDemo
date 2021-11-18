@@ -1,0 +1,113 @@
+{
+    "m_SelectedDeviceId": "6c2fa6d9",
+    "m_SelectedPackage": {
+        "deviceId": "6c2fa6d9",
+        "name": "com.demo.firebase",
+        "processId": 13139,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.android.fileexplorer",
+            "processId": 25986,
+            "exited": false
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.miui.home",
+            "processId": 3046,
+            "exited": false
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.capplay.spacecolonizers",
+            "processId": 7754,
+            "exited": true
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.capplay.spacecolonizers",
+            "processId": 9313,
+            "exited": true
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.capplay.spacecolonizers",
+            "processId": 10093,
+            "exited": true
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.capplay.spacecolonizers",
+            "processId": 10710,
+            "exited": true
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.capplay.spacecolonizers",
+            "processId": 11759,
+            "exited": true
+        },
+        {
+            "deviceId": "6c2fa6d9",
+            "name": "com.demo.firebase",
+            "processId": 13139,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

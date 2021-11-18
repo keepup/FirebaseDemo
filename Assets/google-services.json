@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389469378476",
+    "firebase_url": "https://test-ec512.firebaseio.com",
+    "project_id": "test-ec512",
+    "storage_bucket": "test-ec512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389469378476:android:9c9dde8146505d17dc0c09",
+        "android_client_info": {
+          "package_name": "com.demo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389469378476-raf38uhri47nfmaesqfkghdahuvqnvni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1QJ1OTdTD_9CDSwomo9DbdbSsx19Idw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389469378476-raf38uhri47nfmaesqfkghdahuvqnvni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389469378476-aajdhtjlue0m5su9u44hdh0ld8q9dt7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wulatuo.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
